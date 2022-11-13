@@ -1,5 +1,3 @@
-# CMPE255_FinalProject
-
 ## Olympic Medal Prediction
 
 ## Objective of the Project:
